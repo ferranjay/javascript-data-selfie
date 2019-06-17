@@ -18,9 +18,10 @@ Retrieving data from NeDB with a "RESTian" route.
 Adding capture and images with p5.
 
 Objectives.
-Learn basics of server-side programming with Node (and express?).
-Learn how to save data to a database with NedB.
-show just plain array.
-show flat file.
-introduce idea of database.
-Learn how to use fetch() to POST data to server.
+
+- Learn basics of server-side programming with Node (and express?).
+- Learn how to save data to a database with NedB.
+- How to show just plain array.
+- How to show flat file.
+- Introduce idea of database.
+- Learn how to use fetch() to POST data to server.
